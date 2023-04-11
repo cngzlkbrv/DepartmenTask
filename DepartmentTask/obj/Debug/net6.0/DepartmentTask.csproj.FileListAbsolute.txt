@@ -1,0 +1,15 @@
+C:\Users\exam\Desktop\Chingiz\DepartmentTask\bin\Debug\net6.0\DepartmentTask.exe
+C:\Users\exam\Desktop\Chingiz\DepartmentTask\bin\Debug\net6.0\DepartmentTask.deps.json
+C:\Users\exam\Desktop\Chingiz\DepartmentTask\bin\Debug\net6.0\DepartmentTask.runtimeconfig.json
+C:\Users\exam\Desktop\Chingiz\DepartmentTask\bin\Debug\net6.0\DepartmentTask.dll
+C:\Users\exam\Desktop\Chingiz\DepartmentTask\bin\Debug\net6.0\DepartmentTask.pdb
+C:\Users\exam\Desktop\Chingiz\DepartmentTask\obj\Debug\net6.0\DepartmentTask.csproj.AssemblyReference.cache
+C:\Users\exam\Desktop\Chingiz\DepartmentTask\obj\Debug\net6.0\DepartmentTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\exam\Desktop\Chingiz\DepartmentTask\obj\Debug\net6.0\DepartmentTask.AssemblyInfoInputs.cache
+C:\Users\exam\Desktop\Chingiz\DepartmentTask\obj\Debug\net6.0\DepartmentTask.AssemblyInfo.cs
+C:\Users\exam\Desktop\Chingiz\DepartmentTask\obj\Debug\net6.0\DepartmentTask.csproj.CoreCompileInputs.cache
+C:\Users\exam\Desktop\Chingiz\DepartmentTask\obj\Debug\net6.0\DepartmentTask.dll
+C:\Users\exam\Desktop\Chingiz\DepartmentTask\obj\Debug\net6.0\refint\DepartmentTask.dll
+C:\Users\exam\Desktop\Chingiz\DepartmentTask\obj\Debug\net6.0\DepartmentTask.pdb
+C:\Users\exam\Desktop\Chingiz\DepartmentTask\obj\Debug\net6.0\DepartmentTask.genruntimeconfig.cache
+C:\Users\exam\Desktop\Chingiz\DepartmentTask\obj\Debug\net6.0\ref\DepartmentTask.dll
